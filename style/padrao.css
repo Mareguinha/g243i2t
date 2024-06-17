@@ -1,3 +1,11 @@
 .pagina-login{
  background-color: chartreuse;
 }
+:root {
+    --fundoLogin:rgb(113, 111, 116) ;
+    --corFonteLogin:rgb(223, 16, 16) ;
+    --btnSistema: rgb(71, 16, 223);
+    --corFonteBotao:rgb(75, 223, 16);
+    --corbtnSistemaHover:rgb(216, 16, 223);
+    --corFonteBotaoHover:rgb(0, 0, 0);
+}
